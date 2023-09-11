@@ -1,0 +1,60 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Alexis",
+                "last": "Davis"
+            },
+            "location": {
+                "street": {
+                    "number": 2225,
+                    "name": "White Oak Dr"
+                },
+                "city": "Mildura",
+                "state": "New South Wales",
+                "country": "Australia",
+                "postcode": 5715,
+                "coordinates": {
+                    "latitude": "-86.8602",
+                    "longitude": "133.3023"
+                },
+                "timezone": {
+                    "offset": "-10:00",
+                    "description": "Hawaii"
+                }
+            },
+            "email": "alexis.davis@example.com",
+            "login": {
+                "uuid": "03513f93-9c97-4805-845f-9ca49ad9912b",
+                "username": "whitemeercat787",
+                "password": "earthlink",
+                "salt": "YJCIatbr",
+                "md5": "0d4a1530f0119c8912c7fe7532d97f84",
+                "sha1": "a0e8ba91a66e6dde161b4ad96a0aa8714b1f2770",
+                "sha256": "bea2de9b3fe9fda466dd1b34474b587115865c1b1bd5877db20f1d3e8370dd58"
+            },
+            "dob": {
+                "date": "1980-11-08T05:47:24.764Z",
+                "age": 42
+            },
+            "registered": {
+                "date": "2008-02-20T14:19:55.514Z",
+                "age": 15
+            },
+            "phone": "06-8560-1701",
+            "cell": "0478-960-144",
+            "id": {
+                "name": "TFN",
+                "value": "814965809"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/57.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+            },
+            "nat": "AU"
+        }
+    ]
+}
